@@ -1,0 +1,17 @@
+create table registerpeople(name varchar(20),pwd varchar(20),email varchar(30));
+
+create table Complaint(ID number(10) primary key,Name varchar(20),subject varchar(30),location varchar(20),FSdate date,description varchar(50),sendTo varchar(20),status varchar(30));
+
+create table department(name varchar(20),pwd varchar(10),department varchar(20));
+	insert into department values('yashwanth','123','chikkballapur');
+	insert into department values('dhanush','456','bengaluru');
+	insert into department values('prajwal','789','belagavi');
+	insert into department values('praveen','147','kolar');
+	insert into department values('sujay','321','mysuru');
+create table theives(ID int not null auto-increment, image mediumblob);
+
+create table alerts(alert varchar(100),alertdate varchar(15));
+
+create table Admin(name varchar(20),pwd varchar(20));
+	insert into Admin values('yashwanth','1234');
+
