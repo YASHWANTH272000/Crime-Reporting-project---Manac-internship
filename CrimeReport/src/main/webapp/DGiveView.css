@@ -1,0 +1,45 @@
+@charset "ISO-8859-1";
+body{
+	background-color: whitesmoke;
+}
+#GiveView{
+		text-decoration: none;
+		background-color: lightgoldenrodyellow;
+		color: red;
+		border: 1px solid black;
+		padding: 10px;
+		line-height: 50px;
+		font-size: 20px;
+		margin-left: 40%;
+		border-top-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+	}
+	#GiveView:hover{
+		font-size: 25px;
+	}
+	ul li{
+		list-style: none;
+		float: left;
+		width: 25%;
+		color: white;
+		background-color: black;
+		line-height: 40px;
+		text-align: center;
+		font-size: 20px;
+
+			}
+	#topbar{
+		text-decoration: none;
+		color: white;
+	}
+	#topbar:hover{
+		color: indianred;
+		text-decoration: overline underline;
+	}
+
+	#fieldleft{
+		width:60%;
+		float: left;
+		margin-left:20%;
+		
+	}
