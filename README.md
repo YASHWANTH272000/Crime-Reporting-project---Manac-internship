@@ -14,3 +14,12 @@ By using this system, the record work is reduced and the data stored in computer
 The other advantages on this is people can view the status of complaints and most wanted criminals images.
 
 Form the whole, this method helps to bring general public and poice department close to each other to share their views and it also reduce criminal activities. 
+
+Requirements:
+* Oracle[Version: 2021-03 (4.19.0)]
+* Oracle Database 11g Express edition -->link : https://www.oracle.com/in/database/technologies/appdev/xe.html
+
+
+Before running project 
+
+Run sql commands in sql command line and commit changes. Sql command file as been uploaded in github............
